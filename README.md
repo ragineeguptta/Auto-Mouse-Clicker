@@ -50,7 +50,7 @@ Sleeps for 60 seconds before repeating.
 
 Console.CancelKeyPress ensures the app exits cleanly when pressing Ctrl+C.
 
-### In Simple Words
+## In Simple Words
 
 This program:
 
